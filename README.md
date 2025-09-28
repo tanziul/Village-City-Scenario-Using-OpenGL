@@ -1,7 +1,7 @@
 # OpenGL Village and City Scene Simulator
 
 ![Village Day](screenshots/village_day.png)
-![City Night](screenshots/City_day.png)
+![City Night](screenshots/city_night.png)
 
 This is a Computer Graphics project built using OpenGL and GLUT in C++. It simulates two interactive 2D scenes: a **Village** and a **City**, with day/night modes, moving vehicles/boats, clouds, rain (in village), and a flying plane (in city). The project demonstrates 2D graphics rendering, animations, and user input handling using keyboard and mouse controls.
 
