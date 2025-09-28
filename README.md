@@ -45,7 +45,8 @@ This is a Computer Graphics project built using OpenGL and GLUT in C++. It simul
 ![Village Night Rain](screenshots/village_night_rain.png)
 
 ### City Day Mode
-![City Day](screenshots/City_day.png)
+![City Day](screenshots/city_day.png)
+![City Day](screenshots/city_day_plane.png)
 
 ## Prerequisites
 - **Compiler**: GCC or any C++ compiler (e.g., MinGW for Windows).
